@@ -35,6 +35,7 @@ Our goal is to be lightweight, flexible, easy to use but to provide all necessar
 - uuid: 3.0.7
 - intl: 0.17.0
 - file_picker: 5.2.11
+- random_avatar: any
 
 ## Team
 
